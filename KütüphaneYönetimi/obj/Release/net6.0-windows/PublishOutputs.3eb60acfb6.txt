@@ -1,0 +1,11 @@
+D:\KütüphaneYönetimi\KütüphaneYönetimi.exe
+D:\KütüphaneYönetimi\KütüphaneYönetimi.dll
+D:\KütüphaneYönetimi\KütüphaneYönetimi.deps.json
+D:\KütüphaneYönetimi\KütüphaneYönetimi.runtimeconfig.json
+D:\KütüphaneYönetimi\KütüphaneYönetimi.pdb
+D:\KütüphaneYönetimi\System.Data.SqlClient.dll
+D:\KütüphaneYönetimi\runtimes\win-arm64\native\sni.dll
+D:\KütüphaneYönetimi\runtimes\win-x64\native\sni.dll
+D:\KütüphaneYönetimi\runtimes\win-x86\native\sni.dll
+D:\KütüphaneYönetimi\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\KütüphaneYönetimi\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
